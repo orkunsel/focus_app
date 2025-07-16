@@ -1,0 +1,1 @@
+allowed = ["Terminal", "Chrome", "Spotify"]
